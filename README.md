@@ -1,2 +1,3 @@
 # xrcom
-Placeholder repo for the xrcom project
+
+Placeholder package. The `xrcom` name is reserved for a future project.
